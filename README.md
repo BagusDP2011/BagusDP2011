@@ -43,9 +43,7 @@ It will be pleased to improve my skills and to work with you. 😉
 
 <hr/>
 ---
-
 ### :fire: My Stats :
-<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bagusdp2011&theme=dark&background=000000)](https://git.io/streak-stats)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusdp2011)](https://github.com/anuraghazra/github-readme-stats)
-</div>
