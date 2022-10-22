@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/bagus-dwi-putra/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
-<div>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=bagusdp2011&style=flat-square&color=blue" alt="View Counter"/>
 </div>
 <hr/>
@@ -45,7 +45,7 @@ It will be pleased to improve my skills and to work with you. 😉
 ---
 
 ### :fire: My Stats :
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bagusdp2011&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusdp2011)](https://github.com/anuraghazra/github-readme-stats)
-
-
+</div>
