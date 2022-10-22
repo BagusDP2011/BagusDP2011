@@ -41,3 +41,11 @@ It will be pleased to improve my skills and to work with you. 😉
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" **alt="Express" width="40" height="40"/>
 </div>
 
+<hr/>
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bagusdp2011&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusdp2011)](https://github.com/anuraghazra/github-readme-stats)
+
+
