@@ -49,5 +49,6 @@ It will be pleased to improve my skills and to work with you. 😉
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusdp2011)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- BLOG-POST-LIST:START -->
+- [Test Post](https://dev.to/itszed0/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
 
