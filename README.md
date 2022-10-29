@@ -6,10 +6,10 @@
   <a href="https://www.linkedin.com/in/bagus-dwi-putra/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="www.youtube.com/c/GusbaXD">
+  <a href="http://www.youtube.com/c/GusbaXD">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="www.instagram.com/bagusdp___">
+  <a href="http://www.instagram.com/bagusdp___">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
