@@ -27,7 +27,7 @@ It will be pleased to improve my skills and to work with you. 😉
 
 <hr/>
 
-### :hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -42,8 +42,7 @@ It will be pleased to improve my skills and to work with you. 😉
 </div>
 
 <hr/>
----
-### :fire: My Stats :
+:fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bagusdp2011&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusdp2011)](https://github.com/anuraghazra/github-readme-stats)
